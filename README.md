@@ -8,7 +8,32 @@ I'm passionate about exploring data and turning complex information into clear, 
 What I find most interesting about data analysis is the process of exploration: asking questions, diving into the data, and gradually developing a clearer understanding of what is happening.
 Data visualisation is where I feel I can bring that analysis to life. I particularly enjoy building dashboards that combine clear visuals, relevant metrics and an intuitive structure, turning analytical findings into something that is easy to explore, understand and use for decision-making.
 
+## 🛠️ Technical Skills
 
+### 📊 Data Analysis
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- A/B Testing
+
+### 📈 Data Visualisation
+- Power BI
+- Tableau
+- Google Sheets
+- Dashboard Development
+- Data Storytelling
+
+### 💡 Professional Skills
+- Analytical Thinking
+- Problem Solving
+- Critical Thinking
+- Attention to Detail
+- Communicating Insights to Non-Technical Audiences
+- Organisation & Time Management
+- Continuous Learning
+- Teamwork
 ---
 <!--
 **nany11antunez/nany11antunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
