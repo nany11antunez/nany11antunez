@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Data Analyst Banner">
+</p>
 
-### Hi there 👋
-A Junior Data Analyst passionate about turning data into clear and meaningful insights.
+# Hi there! 👋 I'm Marianny
+I'm passionate about exploring data and turning complex information into clear, meaningful insights.
+What I find most interesting about data analysis is the process of exploration: asking questions, diving into the data, and gradually developing a clearer understanding of what is happening.
+Data visualisation is where I feel I can bring that analysis to life. I particularly enjoy building dashboards that combine clear visuals, relevant metrics and an intuitive structure, turning analytical findings into something that is easy to explore, understand and use for decision-making.
 
-What I enjoy most about data analysis is the process of exploration: asking the right questions, looking for patterns and trends, and discovering insights that are not always obvious at first glance.
-
-I particularly enjoy bringing these findings to life through data visualisation, creating clear and purposeful dashboards and visualisations that make complex information easier to understand.
-
-I'm interested in working with real-world data, understanding the story behind it, and translating my findings into insights that can support better decision-making.
 
 ---
 <!--
