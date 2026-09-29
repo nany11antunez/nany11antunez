@@ -10,7 +10,7 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analysis
+**📊 Data Analysis**
 - SQL
 - Python (Pandas, NumPy, Matplotlib)
 - Data Cleaning & Transformation
@@ -18,14 +18,14 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 - Statistical Analysis
 - A/B Testing
 
-### 📈 Data Visualisation
+**📈 Data Visualisation**
 - Power BI
 - Tableau
 - Google Sheets
 - Dashboard Development
 - Data Storytelling
 
-### 💡 Professional Skills
+**💡 Professional Skills**
 - Analytical Thinking
 - Problem Solving
 - Critical Thinking
