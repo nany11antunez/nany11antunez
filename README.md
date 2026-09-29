@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%" alt="Data Analyst Banner">
 </p>
 
-# Hi there! 👋 I'm Marianny
+# Hi there! 👩‍💻  I'm Marianny
 I'm passionate about exploring data and turning complex information into clear, meaningful insights.
 What I find most interesting about data analysis is the process of exploration: asking questions, diving into the data, and gradually developing a clearer understanding of what is happening.
 Data visualisation is where I feel I can bring that analysis to life. I particularly enjoy building dashboards that combine clear visuals, relevant metrics and an intuitive structure, turning analytical findings into something that is easy to explore, understand and use for decision-making.
