@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./NOMBRE_EXACTO_DE_TU_IMAGEN.jpg" width="100%" alt="Data Analyst Banner">
-</p>
 
 ### Hi there 👋
 A Junior Data Analyst passionate about turning data into clear and meaningful insights.
