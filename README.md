@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Data Analyst Banner">
+  <img src="./NOMBRE_EXACTO_DE_TU_IMAGEN.jpg" width="100%" alt="Data Analyst Banner">
 </p>
 
 ### Hi there 👋
-
 A Junior Data Analyst passionate about turning data into clear and meaningful insights.
 
 What I enjoy most about data analysis is the process of exploration: asking the right questions, looking for patterns and trends, and discovering insights that are not always obvious at first glance.
