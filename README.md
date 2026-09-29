@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/d67c390a-e67a-4b20-9153-d5901f25ea9d">
+  <img src="banner.jpg" width="100%" alt="Data Analyst Banner">
 </p>
 
+### Hi there 👋
 
-# Hi Marianny Herę! 👋
 A Junior Data Analyst passionate about turning data into clear and meaningful insights.
 
 What I enjoy most about data analysis is the process of exploration: asking the right questions, looking for patterns and trends, and discovering insights that are not always obvious at first glance.
