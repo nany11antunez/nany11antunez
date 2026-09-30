@@ -10,20 +10,15 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 
 ## 🛠️ Technical Skills
 
-**📊 Data Analysis**
-- SQL
-- Python (Pandas, NumPy, Matplotlib)
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- A/B Testing
-
-**📈 Data Visualisation**
-- Power BI
-- Tableau
-- Google Sheets
-- Dashboard Development
-- Data Storytelling
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p> <p align="left">
+  <img src="https://img.shields.io/badge/TABLEAU-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/POWER%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<p align="left"> <img src="https://img.shields.io/badge/A%2FB%20TESTING-%23FF6F61.svg?style=for-the-badge&logo=target&logoColor=white" alt="A/B Testing"> 
 
 **💡 Professional Skills**
 - Analytical Thinking
