@@ -32,6 +32,9 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 - Continuous Learning
 - Teamwork
 
+## 💻 Featured Projects
+
+On my GitHub profile, you can explore a variety of projects I have developed, each with a detailed description, instructions for use, and examples of how they work. Some of my projects include:
 <!--
 **nany11antunez/nany11antunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
