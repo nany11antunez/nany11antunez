@@ -19,8 +19,10 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
   <img src="https://img.shields.io/badge/TABLEAU-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/POWER%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 <p align="left"> <img src="https://img.shields.io/badge/A%2FB%20TESTING-%23FF6F61.svg?style=for-the-badge&logo=target&logoColor=white" alt="A/B Testing"> 
+<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 
-**💡 Professional Skills**
+## 🎯 Core Competencies
+
 - Analytical Thinking
 - Problem Solving
 - Critical Thinking
@@ -29,7 +31,7 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 - Organisation & Time Management
 - Continuous Learning
 - Teamwork
----
+
 <!--
 **nany11antunez/nany11antunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
