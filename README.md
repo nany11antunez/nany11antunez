@@ -35,6 +35,18 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 ## 💻 Featured Projects
 
 On my GitHub profile, you can explore a variety of projects I have developed, each with a detailed description, instructions for use, and examples of how they work. Some of my projects include:
+
+## ☕ Would you like to get in touch?
+
+If you would like to reach out or discuss a project, feel free to drop me a message:
+<p align="left">
+  <a href="mailto:nany.11antuperez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mariannyantunez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 <!--
 **nany11antunez/nany11antunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
