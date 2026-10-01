@@ -36,6 +36,8 @@ Data visualisation is where I feel I can bring that analysis to life. I particul
 
 On my GitHub profile, you can explore a variety of projects I have developed, each with a detailed description, instructions for use, and examples of how they work. Some of my projects include:
 
+- **[ConnectaTel Customer Usage Analysis](https://github.com/nany11antunez/connectatel-customer-usage-analysis)**: Data cleaning, EDA, and advanced customer segmentation for a telecommunications company in Mexico and Colombia using Python and Pandas.
+
 ## ☕ Would you like to get in touch?
 
 If you would like to reach out or discuss a project, feel free to drop me a message:
