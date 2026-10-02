@@ -38,7 +38,7 @@ On my GitHub profile, you can explore a variety of projects I have developed, ea
 
 - **[Urban Mobility & Economic Productivity Analysis — IDB](https://github.com/nany11antunez/urban-mobility-economic-analysis)**: Analysis of urban mobility and economic productivity across major cities worldwide, using a final dataset of selected Latin American cities. The project explores traffic congestion, travel times, GDP per capita, and population using Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
-- **[ConnectaTel Customer Usage Analysis](https://github.com/nany11antunez/connectatel-customer-usage-analysis)**: Statistical analysis and customer segmentation for a telecommunications company operating in Mexico and Colombia. The project explores customer usage patterns, data quality issues, outliers, and behavioural segments using Python, Pandas, Matplotlib, and Seaborn.
+- **[Customer Usage Analysis — ConnectaTel ](https://github.com/nany11antunez/connectatel-customer-usage-analysis)**: Statistical analysis and customer segmentation for a telecommunications company operating in Mexico and Colombia. The project explores customer usage patterns, data quality issues, outliers, and behavioural segments using Python, Pandas, Matplotlib, and Seaborn.
 
 ## ☕ Would you like to get in touch?
 
